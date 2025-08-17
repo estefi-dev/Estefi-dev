@@ -1,4 +1,4 @@
-![Banner Personal](https://i.imgur.com/ejemploImagen.png)
+![Banner Personal](https://imgur.com/a/69ldEv9)
 
 # ¡Hola, soy Estefi! 👩‍💻✨
 
