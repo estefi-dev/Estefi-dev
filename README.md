@@ -1,3 +1,5 @@
+![Banner Personal](https://i.imgur.com/ejemploImagen.png)
+
 # ¡Hola, soy Estefi! 👩‍💻✨
 
 Bienvenida a mi espacio en GitHub 🚀  
