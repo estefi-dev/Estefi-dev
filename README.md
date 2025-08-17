@@ -13,8 +13,8 @@ Aquí comparto mis proyectos y avances en **programación con Java** y otras tec
 ---
 
 ## 💌 Conectemos
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu_usuario)  
-- 📸 [Instagram](https://www.linkedin.com/in/estefany-gonzalez-007442258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/estefany-gonzalez-007442258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app****)  
+- 📸 [Instagram](https://www.instagram.com/__mar666_/?igsh=MWRsZDQ0cnh5bGZpcQ%3D%3D#)
 
 ---
   ## 🛠️ Tecnologías y Herramientas
